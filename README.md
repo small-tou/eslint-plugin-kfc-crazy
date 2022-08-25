@@ -42,6 +42,7 @@ Then configure the rules you want to use under the rules section.
 }
 ```
 
-## Supported Rules
+## ScreenShot
 
-- Fill in provided rules here
+![image](https://user-images.githubusercontent.com/897401/186560345-1b64a066-9dd4-46cc-9861-ff616a0f871d.png)
+
