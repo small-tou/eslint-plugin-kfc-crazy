@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "kfc-crazy/kfc-crazy": "error"
+  },
+  "plugins": ["kfc-crazy"],
+  "parser": "babel-eslint"
+}
