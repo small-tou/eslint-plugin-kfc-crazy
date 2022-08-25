@@ -2,6 +2,8 @@
 
 a lint for KFC Crazy Thursday
 
+this is a repo fork from https://github.com/0xYootou/eslint-plugin-996
+
 ## Feature list
 
 - [x] KFC Crazy every Thursday
@@ -42,11 +44,18 @@ Then configure the rules you want to use under the rules section.
 }
 ```
 
+config as warn will be more friendly.
+
+```json
+{
+  "rules": {
+    "kfc-crazy/kfc-crazy": "warn"
+  }
+}
+```
+
 ## ScreenShot
 
 ![image](https://user-images.githubusercontent.com/897401/186561859-4bad90e6-a35b-4045-962e-1fd74b3dc873.png)
 
 ![image](https://user-images.githubusercontent.com/897401/186560345-1b64a066-9dd4-46cc-9861-ff616a0f871d.png)
-
-
-
