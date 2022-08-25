@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.16.0",
+    "eslint": "^8.0.0",
     "eslint-plugin-kfc-crazy": "file:.",
     "mocha": "^3.1.2"
   },
